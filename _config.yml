@@ -16,3 +16,7 @@ github_username:  strangehill
 
 # Build settings
 markdown: kramdown
+
+collections:
+  thesis:
+    output: true
