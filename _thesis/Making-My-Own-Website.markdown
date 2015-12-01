@@ -6,24 +6,29 @@ categories: thesis
 ---
 
 In the nineties I learned how to make web pages.
-It was easy and exhilirating.
-It only took me a couple of hours to learn the basics of html and hack something together that I could share with my friends.
-This was the easiest part.
-In a few minutes I was uploading my pages (hosting for free !) at *www.Geocities.com/SunsetStrip/Venue/6035*.
-I wish I could show you the kooky, goofy things I made but in the years that followed Geocities was bought by one of the dot com behemoths and dissolved into the ether.
-Good samaritans have salvaged many of the sites and archived them at [reocities.com][].
-Unfortunately, my site didn't (or hasn't!) made it to their list of sites in the [/SunsetStrip/venue/][] neighborhood.
-Or, worst case scenario, I forgot the four digit number at the end of my URL.
+It was easy and exhilarating.
+It only took me a couple of hours to learn the basics of html and soon I'd hacked something together that I could share with my friends.
+This was easy too.
+I'd heard of a website called Geocities and signed up for a free account.
+In a few minutes I was uploading my wonderful, amateur code to my new web address: *www.Geocities.com/SunsetStrip/Venue/6035*.
+
+I wish I could show you the kooky, goofy things I made but in the years since then, Geocities was bought by Yahoo! and eventually dissolved into the ether.
+Good samaritans have salvaged many of the sites once hosted by geocities and archived them at [reocities.com][].
+Unfortunately, my site wasn't (or hasn't been!) been by these web archaeologists.
+I've checked their listing for the rescued sites in the [/SunsetStrip/venue/][] neighborhood and couldn't found 6035.
+Or, wait, was it 6045?
+I'm pretty sure I've forgotten the randomly assigned four digit number at the end of my URL.
 
 [reocities.com]: http://www.reocities.com/
 [/SunsetStrip/venue/]: http://www.reocities.com/SunsetStrip/venue/
 
-So Simple. I was 99% authoring webpages and 1% sharing it.
+It Was All So Simple.
 
+I tinkered with my website for months, not really knowing what use to give it, or what kind of messages it would be possible to extract out of this novel medium.
 
-I tinkered with my website for months, not really knowing what use to give it, or what kind of message I could extract out of the new medium.
-
-So I wrote adolescent poetry for my friends and grafted it onto my stuffy virtual showcase. I learned that I could implant a tiny snippet of scary javascript code into my .html files and make every element on the page change colors as the mouse hovered over certain areas. It turned cringe-inducing rhymes into a full visual assault.
+I wrote adolescent poetry for my friends and grafted it onto my stuffy virtual showcase.
+I learned that I could implant a tiny snippet of gnarly looking javascript code into my .html files and make every element on the page change colors as the mouse hovered over certain elements on the page.
+It complemented cringe-inducing rhymes with a full visual assault.
 
 It was like [discovering fire][Quora].
 
@@ -31,11 +36,20 @@ It was like [discovering fire][Quora].
 
 I wish I still had that tacky experiment.
 
-I moved on to other, shinier parts of the web and that code was lost to the passage of time. It might have been wiped off the server that hosted it. Maybe it waits indefinitely --- long term storage on an icy hard drive. It's not the way I like it but I didn't know any better so I let my data slip away from me.
+I moved on to other, shinier parts of the web and that code was lost to the passage of time. It might have been wiped off the server that hosted it.
+Maybe it waits indefinitely --- long term storage on an icy hard drive.
+It's not the way I like it but I didn't know any better so I let my data drift away from me.
 
-We've engaged with chat applications and email providers, sometimes for years, before somebody pulls the plug when we're not watching. Enthralled by their innovative functionality, we never bother to ask that our data be kept safe for us.
-
+We've engaged with chat applications and email providers, sometimes for years, before somebody pulls the plug when we're not watching.
+Enthralled by their innovative functionality, we don't ask for guarantees.
+Before we know it we've pour ourselves clean into the work of digital self-expression.
+Then we start flirting with other websites and those first forays we'd made remain in the back of our minds.
 Inevitably we abandon our chat histories and email archives when new social networks and email services come along.
+The day comes when we want to revisit our toy chest.
+So we go back to those first web applications and discover that the toys from that age of innocence are long gone.
+Only our faulty memories remain because we didn't think of ensuring that our data would be kept safe for us.
+
+
 
 Twenty years have gone by and I'm dismayed that my data leaves me faster than ever before (now with pictures and status updates). This unacceptable status quo is a key reason for making this website.
 
